@@ -5,6 +5,7 @@
 }
 
 body{
+<<<<<<< HEAD
     background-image: url(images/back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -53,3 +54,7 @@ nav a{
     width: 100%;
 }
 }
+=======
+    background-image: -moz-radial-gradient();
+}
+>>>>>>> 58782d09d852e2e71a43059a8940b2f7356e223f
